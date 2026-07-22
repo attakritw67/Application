@@ -69,6 +69,10 @@ class MyApp extends StatelessWidget {
                 style: TextStyle(fontSize: 16),
               ),
               Text(
+                "- การเเข่งขันกีฬา Esports",
+                style: TextStyle(fontSize: 16),
+              ),
+              Text(
                 "- การทำAnimation",
                 style: TextStyle(fontSize: 16),
               ),
